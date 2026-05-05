@@ -1,3 +1,8 @@
+Bài thực hành buổi 6
+Họ tên: HUỳnh Trọng Nhân
+MSSV: 22679471
+Các Thành viên Nhóm: Võ Triều An, Huỳnh Văn Hiếu, Huỳnh Trọng Nhân, Lê Phạm Minh Đức, Huỳnh Thanh Phương
+
 # Flash Sale Space-Based Architecture
 
 This workspace contains 5 independent apps that you can copy to 5 different machines:
